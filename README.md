@@ -1,4 +1,4 @@
-# Simple REST API's with Spring MVC
+# Simple REST API with Spring MVC
 
 REST API to handle Customer entities using Spring MVC with Spring Rest Repositories
 
